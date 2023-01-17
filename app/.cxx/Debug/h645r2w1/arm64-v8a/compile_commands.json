@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/teehee/Documents/GitHub/CalculatorAppWithNDK/app/.cxx/Debug/h645r2w1/arm64-v8a",
+  "command": "/home/teehee/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/home/teehee/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/teehee/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dcalculatorappwithndk_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/calculatorappwithndk.dir/native-lib.cpp.o -c /home/teehee/Documents/GitHub/CalculatorAppWithNDK/app/src/main/cpp/native-lib.cpp",
+  "file": "/home/teehee/Documents/GitHub/CalculatorAppWithNDK/app/src/main/cpp/native-lib.cpp"
+}
+]

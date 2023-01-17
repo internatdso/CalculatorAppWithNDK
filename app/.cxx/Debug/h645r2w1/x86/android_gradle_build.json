@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/home/teehee/Documents/GitHub/CalculatorAppWithNDK/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/teehee/Android/Sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/home/teehee/Documents/GitHub/CalculatorAppWithNDK/app/.cxx/Debug/h645r2w1/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/teehee/Android/Sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/home/teehee/Documents/GitHub/CalculatorAppWithNDK/app/.cxx/Debug/h645r2w1/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "calculatorappwithndk::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "calculatorappwithndk",
+      "output": "/home/teehee/Documents/GitHub/CalculatorAppWithNDK/app/build/intermediates/cxx/Debug/h645r2w1/obj/x86/libcalculatorappwithndk.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/teehee/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/home/teehee/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

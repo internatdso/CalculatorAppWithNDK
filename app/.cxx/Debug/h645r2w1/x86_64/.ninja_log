@@ -1,0 +1,3 @@
+# ninja log v5
+0	498	1673908928	CMakeFiles/calculatorappwithndk.dir/native-lib.cpp.o	94e1e995639dc96c
+498	564	1673908928	/home/teehee/Documents/GitHub/CalculatorAppWithNDK/app/build/intermediates/cxx/Debug/h645r2w1/obj/x86_64/libcalculatorappwithndk.so	786150fd779cba0f
